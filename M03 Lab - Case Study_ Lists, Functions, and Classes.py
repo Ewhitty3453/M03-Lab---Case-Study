@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 class Vehicle:
     def __init__(self):
         self.vehicle_type = ""
@@ -71,7 +65,3 @@ if __name__ == "__main__":
 
 
 # In[ ]:
-
-
-
-
